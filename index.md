@@ -1,6 +1,6 @@
 # HaloBreath – Privacy Policy
 
-_ Last updated: 30 November 2025 _
+_Last updated: 30 November 2025_
 
 Thank you for using **HaloBreath** (“the App”, “we”, “us”).  
 This Privacy Policy explains what data the app processes, how it is used, and which choices you have.
