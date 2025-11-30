@@ -74,12 +74,23 @@ HaloBreath may show ads in the free version and offer a paid subscription to rem
 ### 3.1. Advertising
 
 Ads in the app may be served by third-party ad networks such as **Google AdMob**.  
-These providers may collect certain information from your device (for example: device identifiers, approximate location, ad interactions) in order to show and measure ads, and – where allowed – personalize them.
+These providers may collect certain information from your device, for example:
+
+- the **Google advertising ID (Advertising ID)**,
+- device information (such as device model and OS version),
+- approximate location,
+- interactions with ads (impressions, clicks).
+
+This data may be used to display, measure and (where allowed by your settings)  
+personalize ads.
 
 Data collected by ad networks is processed under their own privacy policies.  
-Please review the privacy policy of the relevant provider (for example, Google) for details on what they collect and how they use it.
+Please review the privacy policy of the relevant provider (for example, Google)  
+for details on what they collect and how they use it.
 
-Inside Android you can usually limit ad tracking or reset your advertising ID in the system settings.
+Inside Android you can usually limit ad tracking or reset your advertising ID
+in the system privacy settings.
+
 
 ### 3.2. In-app purchases and subscriptions
 
